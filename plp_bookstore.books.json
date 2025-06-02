@@ -1,0 +1,117 @@
+[{
+  "_id": {
+    "$oid": "683d7dad1ea1c67bd95264bb"
+  },
+  "title": "Clean Code",
+  "author": "Robert C. Martin",
+  "genre": "Programming",
+  "published_year": 2008,
+  "price": 39,
+  "in_stock": true,
+  "pages": 464,
+  "publisher": "Prentice Hall"
+},
+{
+  "_id": {
+    "$oid": "683d7dad1ea1c67bd95264bc"
+  },
+  "title": "The Pragmatic Programmer",
+  "author": "Andrew Hunt",
+  "genre": "Programming",
+  "published_year": 1999,
+  "price": 40,
+  "in_stock": true,
+  "pages": 352,
+  "publisher": "Addison-Wesley"
+},
+{
+  "_id": {
+    "$oid": "683d7dad1ea1c67bd95264bd"
+  },
+  "title": "The Hobbit",
+  "author": "J.R.R. Tolkien",
+  "genre": "Fantasy",
+  "published_year": 1937,
+  "price": 25,
+  "in_stock": true,
+  "pages": 310,
+  "publisher": "Allen & Unwin"
+},
+{
+  "_id": {
+    "$oid": "683d7dad1ea1c67bd95264be"
+  },
+  "title": "Harry Potter and the Philosopher's Stone",
+  "author": "J.K. Rowling",
+  "genre": "Fantasy",
+  "published_year": 1997,
+  "price": 30,
+  "in_stock": false,
+  "pages": 223,
+  "publisher": "Bloomsbury"
+},
+{
+  "_id": {
+    "$oid": "683d7dad1ea1c67bd95264bf"
+  },
+  "title": "Atomic Habits",
+  "author": "James Clear",
+  "genre": "Self-help",
+  "published_year": 2018,
+  "price": 20,
+  "in_stock": true,
+  "pages": 320,
+  "publisher": "Penguin"
+},
+{
+  "_id": {
+    "$oid": "683d7dad1ea1c67bd95264c0"
+  },
+  "title": "Thinking, Fast and Slow",
+  "author": "Daniel Kahneman",
+  "genre": "Psychology",
+  "published_year": 2011,
+  "price": 28,
+  "in_stock": true,
+  "pages": 499,
+  "publisher": "Farrar, Straus and Giroux"
+},
+{
+  "_id": {
+    "$oid": "683d7dad1ea1c67bd95264c1"
+  },
+  "title": "To Kill a Mockingbird",
+  "author": "Harper Lee",
+  "genre": "Fiction",
+  "published_year": 1960,
+  "price": 22,
+  "in_stock": false,
+  "pages": 281,
+  "publisher": "J.B. Lippincott & Co."
+},
+{
+  "_id": {
+    "$oid": "683d7dad1ea1c67bd95264c3"
+  },
+  "title": "Sapiens",
+  "author": "Yuval Noah Harari",
+  "genre": "History",
+  "published_year": 2011,
+  "price": 30,
+  "in_stock": true,
+  "pages": 443,
+  "publisher": "Harvill Secker"
+},
+{
+  "_id": {
+    "$oid": "683d7dad1ea1c67bd95264c4"
+  },
+  "title": "The Catcher in the Rye",
+  "author": "J.D. Salinger",
+  "genre": "Fiction",
+  "published_year": 1951,
+  "price": 19,
+  "in_stock": false,
+  "pages": 277,
+  "publisher": "Little, Brown and Company"
+}]
